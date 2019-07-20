@@ -4,7 +4,7 @@ TechDegree Project 2 - List Filter and Pagination
 /*
 Global variables defined.
 - (list) to store student details
-- (numberOfItems). items to be displayed per page. 
+- (numberOfItems) items to be displayed per page. 
 */
 const list = document.getElementsByClassName('student-item cf');
 const numberOfItems = 10;
