@@ -1,6 +1,3 @@
-/************************************************
-TechDegree Project 2 - List Filter and Pagination
-************************************************/
 /*
 Global variables defined.
 - (list) to store student details
